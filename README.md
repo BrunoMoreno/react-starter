@@ -3,11 +3,14 @@
 My personal simple setup with styled components and react router dom.
 To use:
 
-        $ git clone https://github.com/BrunoMoreno/react-starter.git
+    # clone the repo
+    $ git clone https://github.com/BrunoMoreno/react-starter.git
 
-        $ yarn 
+    # intall dependencies
+    $ yarn 
 
-        $ yarn start
+    # start application
+    $ yarn start
 
 
 Do something amazing!
